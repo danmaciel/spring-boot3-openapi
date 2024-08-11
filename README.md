@@ -1,4 +1,4 @@
-# Projeto simples que usa o Spring Boot 3 e OpenAPI para documentacao e Maven
+# Projeto simples que usa o Spring Boot 3 e OpenAPI
 
 ##  Os seguintes modulos do Spring foram utilizados:
   - Spring Data JPA
