@@ -1,7 +1,8 @@
 package br.com.mac.padroes.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
+
+import java.util.List;
 
 /**
  * Os atributos desse modelo foram gerados automaticamente pelo site
